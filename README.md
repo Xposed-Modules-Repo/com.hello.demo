@@ -1,6 +1,6 @@
-# 长江七号
+# 长江九号
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.plus.dy">   <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.plus.dy/total">
-## 逗音相关高质量模块
+## 逗音高质量模块
 ## 网盘地址：https://onesicong.lanzoui.com/b00nwzquh
 ## 功能列表：
 > 1. 去除青少年弹窗
@@ -22,3 +22,4 @@
 > 17. 无水印下载图集（lv10）
 > 18. 评论文字变彩色（lv10）
 > 19. 去除发现通讯录朋友询问框（lv10）
+> 20. 消息阻止撤回（lv10）
