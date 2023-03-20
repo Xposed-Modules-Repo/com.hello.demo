@@ -30,4 +30,4 @@
 > 1. 支持测试, 效果满意后再谈其他的。
 > 2. 逗音洪包秒抢(支持后台、多群、个人、群聊、自己发的、他人发的)
 > 3. 有其他APP需求, 也可联系。
-> 4. 秒抢演示地址：https://www.bilibili.com/video/BV1Cg4y1x7kC/?share_source=copy_web&vd_source=5c3f0e5da4aa76034f7f4b7b13cbfffd
+> 4. 秒抢演示地址：https://www.bilibili.com/video/BV1nP411o7DD/?share_source=copy_web&vd_source=5c3f0e5da4aa76034f7f4b7b13cbfffd
